@@ -1,9 +1,7 @@
 from PIL import Image
 import matplotlib.pyplot as plt
-import cv2 
 import numpy as np
 import pandas as pd
-import torch
 import re
 import os
 import datetime
